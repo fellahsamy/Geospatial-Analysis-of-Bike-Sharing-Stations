@@ -9,6 +9,8 @@ The project aims to analyze and visualize the geographical distribution and capa
 * Geospatial Analysis: Perform spatial analysis using GeoPandas.
 * Interactive Mapping: Generate interactive maps with Contextily to visualize station locations and capacities.
 * Data Integration: Merge and manipulate data from different sources.
-## Prerequisites
-# Google Colab
-# Python Libraries: GeoPandas, Contextily, Pandas, Matplotlib
+## Python Libraries: 
+* GeoPandas
+* Contextily
+* Pandas
+* Matplotlib
